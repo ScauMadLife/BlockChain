@@ -1,0 +1,22 @@
+当代码过于冗长的时候，最好将代码和逻辑分拆到多个不同的合约中，以便于管理。
+
+有个让 Solidity 的代码易于管理的功能，就是合约 inheritance (继承)：
+
+
+contract Doge {
+  function catchphrase() public returns (string) {
+    return "So Wow CryptoDoge";
+  }
+}
+
+contract BabyDoge is Doge {
+  function anotherCatchphrase() public returns (string) {
+    return "Such Moon BabyDoge";
+  }
+}
+
+
+
+由于 BabyDoge 是从 Doge 那里 inherits （继承)过来的。 这意味着当你编译和部署了 BabyDoge，它将可以访问 catchphrase() 和 anotherCatchphrase()和其他我们在 Doge 中定义的其他公共函数。
+
+这可以用于逻辑继承（比如表达子类的时候，Cat 是一种 Animal）。 但也可以简单地将类似的逻辑组合到不同的合约中以组织代码。
