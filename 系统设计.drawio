@@ -1,9 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2023-04-09T17:02:36.775Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.1.4" etag="kpGNDUDRnTbYALXs4O6S" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-09T17:20:42.325Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="XOEGBJ8U3Oii2XkTYzfF" version="21.1.4" type="github">
   <diagram name="第 1 页" id="vKKafMsOvKgo4ySeACn2">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YJ4J_VSfNI9lSGW-4Bev-74" value="&lt;b&gt;基于联盟链的个人档案隐私保护系统&lt;/b&gt;" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="340" width="600" height="500" as="geometry">
+            <mxRectangle x="230" y="340" width="70" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YJ4J_VSfNI9lSGW-4Bev-75" value="应用程序层" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="YJ4J_VSfNI9lSGW-4Bev-74">
+          <mxGeometry y="20" width="600" height="120" as="geometry">
+            <mxRectangle y="20" width="480" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YJ4J_VSfNI9lSGW-4Bev-80" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;用户交互&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="YJ4J_VSfNI9lSGW-4Bev-75">
+          <mxGeometry x="40" y="10" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ4J_VSfNI9lSGW-4Bev-82" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;应用程序逻辑&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="YJ4J_VSfNI9lSGW-4Bev-75">
+          <mxGeometry x="180" y="10" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ4J_VSfNI9lSGW-4Bev-76" value="智能合约层" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="YJ4J_VSfNI9lSGW-4Bev-74">
+          <mxGeometry y="140" width="600" height="120" as="geometry">
+            <mxRectangle y="140" width="600" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YJ4J_VSfNI9lSGW-4Bev-84" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;用户管理&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="YJ4J_VSfNI9lSGW-4Bev-76">
+          <mxGeometry x="40" y="10" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ4J_VSfNI9lSGW-4Bev-85" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;数据查询&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="YJ4J_VSfNI9lSGW-4Bev-76">
+          <mxGeometry x="180" y="10" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ4J_VSfNI9lSGW-4Bev-89" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;加密/解密&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="YJ4J_VSfNI9lSGW-4Bev-76">
+          <mxGeometry x="320" y="10" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ4J_VSfNI9lSGW-4Bev-77" value="区块链层" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="YJ4J_VSfNI9lSGW-4Bev-74">
+          <mxGeometry y="260" width="600" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ4J_VSfNI9lSGW-4Bev-90" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;共识机制&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="YJ4J_VSfNI9lSGW-4Bev-77">
+          <mxGeometry x="40" y="10" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ4J_VSfNI9lSGW-4Bev-91" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;数据地址存储&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="YJ4J_VSfNI9lSGW-4Bev-77">
+          <mxGeometry x="180" y="10" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ4J_VSfNI9lSGW-4Bev-92" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;身份验证&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="YJ4J_VSfNI9lSGW-4Bev-77">
+          <mxGeometry x="320" y="10" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ4J_VSfNI9lSGW-4Bev-93" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;访问控制&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="YJ4J_VSfNI9lSGW-4Bev-77">
+          <mxGeometry x="40" y="70" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ4J_VSfNI9lSGW-4Bev-94" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;联盟链&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="YJ4J_VSfNI9lSGW-4Bev-77">
+          <mxGeometry x="180" y="70" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ4J_VSfNI9lSGW-4Bev-95" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;权威机构&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="YJ4J_VSfNI9lSGW-4Bev-77">
+          <mxGeometry x="320" y="70" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ4J_VSfNI9lSGW-4Bev-99" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;日志记录&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="YJ4J_VSfNI9lSGW-4Bev-77">
+          <mxGeometry x="460" y="10" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ4J_VSfNI9lSGW-4Bev-79" value="数据存储层" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="YJ4J_VSfNI9lSGW-4Bev-74">
+          <mxGeometry y="380" width="600" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ4J_VSfNI9lSGW-4Bev-96" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;档案数据存储&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="YJ4J_VSfNI9lSGW-4Bev-79">
+          <mxGeometry x="40" y="10" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ4J_VSfNI9lSGW-4Bev-97" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;数据上传&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="YJ4J_VSfNI9lSGW-4Bev-79">
+          <mxGeometry x="180" y="10" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ4J_VSfNI9lSGW-4Bev-98" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;数据下载&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="YJ4J_VSfNI9lSGW-4Bev-79">
+          <mxGeometry x="320" y="10" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
