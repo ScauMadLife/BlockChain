@@ -1,35 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2023-04-10T04:36:43.105Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="CEE_eRqXuR4_JZY9vhcF" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-10T05:54:32.897Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="cmV30DpjqUjemTFHaNR1" version="21.1.5" type="github">
   <diagram name="第 1 页" id="yEmyDrirjGPnJzBnCa3G">
-    <mxGraphModel dx="1050" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="291" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="291" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_eXdS_FXE4OZuwJNZrEz-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_eXdS_FXE4OZuwJNZrEz-1" target="_eXdS_FXE4OZuwJNZrEz-2" edge="1">
+        <mxCell id="4EO5dYpA0NOMrgcXhklG-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_eXdS_FXE4OZuwJNZrEz-1" target="RYf09HJWVMhuBbowke3h-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_eXdS_FXE4OZuwJNZrEz-1" value="阅读有关支持访问策略更新的MA-ABE方案的文献" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="100" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RYf09HJWVMhuBbowke3h-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_eXdS_FXE4OZuwJNZrEz-2" target="RYf09HJWVMhuBbowke3h-1">
+        <mxCell id="4EO5dYpA0NOMrgcXhklG-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_eXdS_FXE4OZuwJNZrEz-2" target="RYf09HJWVMhuBbowke3h-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_eXdS_FXE4OZuwJNZrEz-2" value="有关支持访问策略更新的MA-ABE场景分析" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="190" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RYf09HJWVMhuBbowke3h-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RYf09HJWVMhuBbowke3h-1" target="RYf09HJWVMhuBbowke3h-3">
+        <mxCell id="4EO5dYpA0NOMrgcXhklG-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RYf09HJWVMhuBbowke3h-1" target="_eXdS_FXE4OZuwJNZrEz-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RYf09HJWVMhuBbowke3h-1" value="结合可追溯方案对MA-ABE算法进行改进" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="100" width="120" height="60" as="geometry" />
+        <mxCell id="RYf09HJWVMhuBbowke3h-1" value="结合可追踪方案对MA-ABE算法进行改进" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="180" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RYf09HJWVMhuBbowke3h-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RYf09HJWVMhuBbowke3h-3" target="RYf09HJWVMhuBbowke3h-5">
+        <mxCell id="RYf09HJWVMhuBbowke3h-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RYf09HJWVMhuBbowke3h-3" target="RYf09HJWVMhuBbowke3h-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RYf09HJWVMhuBbowke3h-3" value="个人档案隐私保护方案设计" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="100" width="120" height="60" as="geometry" />
+        <mxCell id="RYf09HJWVMhuBbowke3h-3" value="个人档案隐私保护方案设计" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RYf09HJWVMhuBbowke3h-5" value="得到最终可支持访问策略更新和可追溯的MA-ABE方案" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="100" width="120" height="60" as="geometry" />
+        <mxCell id="RYf09HJWVMhuBbowke3h-5" value="得到最终可支持访问策略更新和可追溯的MA-ABE方案" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="630" y="100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
