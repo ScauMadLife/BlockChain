@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2023-04-10T05:36:23.544Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.1.5" etag="rQuLYHFw8l903xXqbTcf" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-10T05:39:50.384Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="0LXgBV_cQRZeQyhPjlT-" version="21.1.5" type="github">
   <diagram name="第 1 页" id="2UxGlBPLaiESZZIrD87-">
-    <mxGraphModel>
+    <mxGraphModel dx="875" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="291" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RWGxDoOaj1qs2d8BvcQ9-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RWGxDoOaj1qs2d8BvcQ9-1" target="RWGxDoOaj1qs2d8BvcQ9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RWGxDoOaj1qs2d8BvcQ9-1" value="阅读个人档案隐私保护平台相关论文" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="121" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RWGxDoOaj1qs2d8BvcQ9-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RWGxDoOaj1qs2d8BvcQ9-2" target="RWGxDoOaj1qs2d8BvcQ9-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RWGxDoOaj1qs2d8BvcQ9-2" value="学习golang，联盟链等相关知识" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="121" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RWGxDoOaj1qs2d8BvcQ9-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RWGxDoOaj1qs2d8BvcQ9-4" target="RWGxDoOaj1qs2d8BvcQ9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RWGxDoOaj1qs2d8BvcQ9-4" value="系统框架的设计构造" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="121" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RWGxDoOaj1qs2d8BvcQ9-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RWGxDoOaj1qs2d8BvcQ9-6" target="RWGxDoOaj1qs2d8BvcQ9-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RWGxDoOaj1qs2d8BvcQ9-6" value="对系统鲁棒性和高效性的改进" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="121" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RWGxDoOaj1qs2d8BvcQ9-8" value="得到基于区块链的个人档案隐私保护系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="121" width="90" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
