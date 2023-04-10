@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2023-04-10T04:37:10.849Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.1.5" etag="NuAv6jyiKx6aRHnFwStL" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-10T05:33:23.481Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="-6EaDGDPTj5bsrYdbsII" version="21.1.5" type="github">
   <diagram name="第 1 页" id="ECOVIYolX-EB28k0KYA9">
-    <mxGraphModel>
+    <mxGraphModel dx="875" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="291" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="IhDVefO665dz2xXuRIb_-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IhDVefO665dz2xXuRIb_-1" target="IhDVefO665dz2xXuRIb_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IhDVefO665dz2xXuRIb_-1" value="阅读有关双链结构和轮值权威节点文献" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="90" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IhDVefO665dz2xXuRIb_-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IhDVefO665dz2xXuRIb_-4" target="IhDVefO665dz2xXuRIb_-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IhDVefO665dz2xXuRIb_-4" value="选取恰当的共识机制方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="90" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IhDVefO665dz2xXuRIb_-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IhDVefO665dz2xXuRIb_-6" target="IhDVefO665dz2xXuRIb_-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IhDVefO665dz2xXuRIb_-6" value="设计有关安全存储和准入链式结构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="90" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IhDVefO665dz2xXuRIb_-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IhDVefO665dz2xXuRIb_-8" target="IhDVefO665dz2xXuRIb_-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IhDVefO665dz2xXuRIb_-8" value="结合轮值AA权威机构设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="90" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IhDVefO665dz2xXuRIb_-10" value="得到在安全存储链中实现双链结构并且AA轮值的方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="603" y="90" width="90" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
